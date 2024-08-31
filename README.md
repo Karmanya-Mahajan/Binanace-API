@@ -2,10 +2,10 @@
 
 ## Binance 1 -  Websockets and Real-Time Lightweight Charts
 
-* What is binance and how does it compare to other exchanges? 
-* Why crypto? Open on nights and weekends, learn new things by doing
+* Understanding about the binance and its API which it provides to everyone
+* crypto is available day and night, so we are making this project in crpto so we can make realtime trade
 * wscat - connect to websocket from the command line
-* wss://stream.binance.com:9443/ws/btcusdt@trade
+* wss://stream.binance.com:9443/ws/btcusdt@trade - taken from binanace official doc
 * capture output to a file
 * connect to websocket from the Web / JavaScript
 * Lightweight Charts - create real-time candlestick chart similar to TradingView
